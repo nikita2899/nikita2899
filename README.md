@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikita
-- I’m a Front-end web developer and have experience in ReactJS
+- I’m a Front-end web developer and have a 2 year experience in ReactJS
 - I am currently learning back-end web development using node.js
 - I’m looking to collaborate on Front-end web development projects
 - 📫 You can reach me at my e-mail: nikitakojabe98@gmail.com
