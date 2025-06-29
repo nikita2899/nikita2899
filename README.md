@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikita
-- I’m a Front-end web developer and I have a 2 year experience working in ReactJS
+- I’m a Software Engineer and I have over 3 years of experience working in We Technologies.
 - 📫 You can reach me at my e-mail: nikitakojabe98@gmail.com
 
 <!---
