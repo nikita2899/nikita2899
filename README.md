@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikita
-- I’m a Software Engineer and I have over 3 years of experience working in We Technologies.
+- I’m a Software Engineer and I have over 3 years of experience working in Web Technologies.
 - 📫 You can reach me at my e-mail: nikitakojabe98@gmail.com
 
 <!---
